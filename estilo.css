@@ -1,0 +1,47 @@
+html,body,.capa{
+    height:100%;
+    overflow:auto;
+
+}
+
+ body{
+ 	background:url(imagem/img01.jpg);
+    background-attachment: fixed;
+    font-family: Helvetica,Arial,sans-serif;
+	overflow-x:hidden;
+    
+ }
+
+ nav.navbar-transparente{
+ 	padding:15px 0px;
+ 	background:rgba(0,0,0,0.6);
+ 	border:none;
+ }
+ .navbar-inverse .navbar-nav>li>a,footer .nav a{
+ 	color:white;
+ }
+
+ .navbar-inverse .navbar-nav>li>a:hover, footer .nav a:hover{
+ 	color:#b3ffb3;
+ 	background:none;
+ }
+ /*imagem capa */
+ .capa{
+	 display:table;
+	 width: 100%;
+	
+ }
+ .texto-capa{
+	 background:url('imagem/capa.png');
+	 text-align: right;
+	 color:black;
+	display:table-cell;
+	vertical-align: middle;
+
+	 
+ }
+  /*promo*/
+
+  #promocoes{
+       background:white;
+  }
