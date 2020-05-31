@@ -1,10 +1,4 @@
-<h1 align="center">
-  <img src="imagem/logo.png">
-</h1>
 
-<h3 align="center">
-  <a href="file:///Users/viniciustoy/Desktop/skateshop/index.html">Acessar a demonstração</a>
-</h3>
 
 # indice
 - [Sobre](#-Sobre)
